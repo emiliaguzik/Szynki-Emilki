@@ -164,6 +164,7 @@ hr {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+    background-attachment: fixed;
 }
 .section-title.center {
 	padding: 10px 0 40px 0;
